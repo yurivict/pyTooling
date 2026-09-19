@@ -764,7 +764,7 @@ Decorators
    .. grid-item::
       :columns: 6
 
-      * :ref:`META/Abstract` |br|
+      * :ref:`META/AbstractClass` |br|
         If there is at least one *abstract method* in a class' definition, then the whole class is considered *abstract*
         and this class can't be instantiated.
 
